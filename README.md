@@ -34,7 +34,7 @@ All three variables are required.
 
 ```bash
 # sample query from the test brief
-uv run python main.py
+uv run python main.py "Ask anything."
 
 # custom queries
 uv run python main.py "What is the policy on international travel?"
