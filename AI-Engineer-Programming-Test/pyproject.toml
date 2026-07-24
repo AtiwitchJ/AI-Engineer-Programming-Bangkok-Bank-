@@ -1,0 +1,14 @@
+[project]
+name = "ai-engineer-programming-test"
+version = "0.1.0"
+description = "Bangkok Bank AI Engineer test — multi-agent RAG with LangChain"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.0",
+    "langchain-openai>=0.3.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+agentic-rag = "main:main"
