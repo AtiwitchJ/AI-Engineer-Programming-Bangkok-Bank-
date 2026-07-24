@@ -74,11 +74,3 @@ AI-Engineer-Programming-Test/
 
 - **Data Retriever** — calls `tool_search_knowledge`, returns raw relevant snippets only (does not answer the user)
 - **Report Generator** — synthesizes snippets into a clear bullet-point answer (no tools)
-
-## Knowledge base topics
-
-`knowledge_base.txt` currently includes:
-
-1. Company international travel policy
-2. SmartSave savings account product
-3. General facts about domestic cats# AI-Engineer-Programming-Bangkok-Bank-
