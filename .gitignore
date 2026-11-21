@@ -50,3 +50,5 @@ temp/
 
 # Local notebooks / dumps
 *.ipynb_checkpoints/
+
+agent-*
